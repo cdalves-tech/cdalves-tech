@@ -7,20 +7,21 @@ Building clean, responsive and functional web interfaces.
 
 ---
 
-- 🔭 Currently working on **personal front-end projects and portfolio**
-- 🌱 Currently learning **Vue.js and AWS Cloud fundamentals ☁️**
-- 👯 Looking to collaborate on **front-end projects**
-- 🤝 Seeking help to **improve cloud skills with AWS**
-- 💬 Ask me about **HTML, CSS, JavaScript and Vue.js**
-- 👨‍💻 All my projects are available at 👉 <a href="https://github.com/cdalves-tech">github.com/cdalves-tech</a>
-- 📫 Reach me at **cdalves.tech@gmail.com**
+- 🔭 Working on <b>personal front-end projects and portfolio</b>  
+- 🌱 Currently learning <b>Vue.js and AWS Cloud fundamentals ☁️</b>  
+- 👯 Open to collaborate on <b>front-end projects</b>  
+- 🤝 Improving <b>AWS cloud skills</b>  
+- 💬 Ask me about <b>HTML, CSS, JavaScript and Vue.js</b>  
+- 👨‍💻 All my projects are available at 👉  
+  <a href="https://github.com/cdalves-tech">github.com/cdalves-tech</a>  
+- 📫 Reach me at <b>cdalves.tech@gmail.com</b>  
 
 ---
 
 <h3 align="left">🤝 Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cdalves-tech" target="_blank">
-  <img align="center"
+  <img
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
     alt="LinkedIn"
     height="30"
@@ -37,4 +38,12 @@ Building clean, responsive and functional web interfaces.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cdalves-tech&show_icons=true&theme=dark" />
 </p>
