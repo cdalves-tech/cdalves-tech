@@ -39,11 +39,3 @@ Building clean, responsive and functional web interfaces.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
 </p>
-
----
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cdalves-tech&show_icons=true&theme=dark" />
-</p>
