@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Alves</h1>
-<h3 align="center">🚀 DevOps Engineer in Progress | Cloud & Automation Enthusiast</h3>
+<h3 align="center">🚀 DevOps Engineer | Cloud & Automation</h3>
 
 <p align="center">
 Building scalable, automated and reliable systems ☁️
@@ -9,12 +9,11 @@ Building scalable, automated and reliable systems ☁️
 
 ## 🚀 About Me
 
-* 🔄 Transitioning from **Front-End Development** to **DevOps**
-* 🔭 Currently working on **cloud infrastructure & automation projects**
+* 🔭 Working on **cloud infrastructure & automation projects**
 * 🌱 Learning **AWS, Docker, Kubernetes and CI/CD pipelines**
 * ⚙️ Focused on **Infrastructure as Code, automation and scalability**
 * 💬 Ask me about **Linux, Docker, Git, CI/CD**
-* 📫 Reach me at: **[cdalves.tech@gmail.com](mailto:cdalves.tech@gmail.com)**
+* 📫 Reach me at: **<a href="mailto:cdalves.tech@gmail.com">[cdalves.tech@gmail.com](mailto:cdalves.tech@gmail.com)</a>**
 * 👨‍💻 Portfolio:
   👉 https://github.com/cdalves-tech
 
@@ -31,8 +30,8 @@ Building scalable, automated and reliable systems ☁️
 ## ☁️ Cloud & DevOps Tools
 
 * 🐳 Docker (containers & images)
-* ☸️ Kubernetes (orchestration - learning phase)
-* ☁️ AWS (EC2, S3, IAM - learning phase)
+* ☸️ Kubernetes (orchestration)
+* ☁️ AWS (EC2, S3, IAM)
 * 🔁 CI/CD (GitHub Actions)
 * 🐧 Linux (daily usage)
 * 📦 Git & GitHub (version control)
@@ -59,14 +58,14 @@ Building scalable, automated and reliable systems ☁️
 
 ---
 
-## 💻 Previous Experience (Front-End)
+## 💻 Additional Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vue" />
 </p>
 
-✔️ Experience building responsive and functional interfaces
-✔️ Strong foundation in web development
+✔️ Experience building web applications
+✔️ Strong understanding of web fundamentals
 
 ---
 
@@ -82,4 +81,4 @@ Building scalable, automated and reliable systems ☁️
 
 ## ⚡ Fun Fact
 
-I enjoy turning complex problems into automated solutions 🚀
+I enjoy automating processes and building efficient systems 🚀
