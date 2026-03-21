@@ -1,41 +1,85 @@
 <h1 align="center">Hi 👋, I'm Daniel Alves</h1>
-<h3 align="center">Front-End Developer from Brazil 🇧🇷</h3>
+<h3 align="center">🚀 DevOps Engineer in Progress | Cloud & Automation Enthusiast</h3>
 
 <p align="center">
-Building clean, responsive and functional web interfaces.
+Building scalable, automated and reliable systems ☁️
 </p>
 
 ---
 
-- 🔭 Working on <b>personal front-end projects and portfolio</b>  
-- 🌱 Currently learning <b>Vue.js and AWS Cloud fundamentals ☁️</b>  
-- 👯 Open to collaborate on <b>front-end projects</b>  
-- 🤝 Improving <b>AWS cloud skills</b>  
-- 💬 Ask me about <b>HTML, CSS, JavaScript and Vue.js</b>  
-- 👨‍💻 All my projects are available at 👉  
-  <a href="https://github.com/cdalves-tech">github.com/cdalves-tech</a>  
-- 📫 Reach me at <b>cdalves.tech@gmail.com</b>  
+## 🚀 About Me
+
+* 🔄 Transitioning from **Front-End Development** to **DevOps**
+* 🔭 Currently working on **cloud infrastructure & automation projects**
+* 🌱 Learning **AWS, Docker, Kubernetes and CI/CD pipelines**
+* ⚙️ Focused on **Infrastructure as Code, automation and scalability**
+* 💬 Ask me about **Linux, Docker, Git, CI/CD**
+* 📫 Reach me at: **[cdalves.tech@gmail.com](mailto:cdalves.tech@gmail.com)**
+* 👨‍💻 Portfolio:
+  👉 https://github.com/cdalves-tech
 
 ---
 
-<h3 align="left">🤝 Connect with me</h3>
-<p align="left">
+## 🛠️ DevOps Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,git,github,githubactions,bash" />
+</p>
+
+---
+
+## ☁️ Cloud & DevOps Tools
+
+* 🐳 Docker (containers & images)
+* ☸️ Kubernetes (orchestration - learning phase)
+* ☁️ AWS (EC2, S3, IAM - learning phase)
+* 🔁 CI/CD (GitHub Actions)
+* 🐧 Linux (daily usage)
+* 📦 Git & GitHub (version control)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cdalves-tech&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdalves-tech&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📂 Featured Projects (DevOps Focus)
+
+🚧 *Coming soon...*
+
+* 🔹 CI/CD pipeline with GitHub Actions
+* 🔹 Dockerized application deployment
+* 🔹 AWS EC2 + Nginx setup
+* 🔹 Infrastructure as Code project
+
+---
+
+## 💻 Previous Experience (Front-End)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue" />
+</p>
+
+✔️ Experience building responsive and functional interfaces
+✔️ Strong foundation in web development
+
+---
+
+## 🤝 Connect with me
+
+<p align="center">
 <a href="https://www.linkedin.com/in/cdalves-tech" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="LinkedIn"
-    height="30"
-    width="40" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-</p>
+## ⚡ Fun Fact
+
+I enjoy turning complex problems into automated solutions 🚀
